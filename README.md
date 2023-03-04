@@ -10,6 +10,11 @@ Refactoring code and leaving it better.
  
  I have learned that refactoring is efficiant, makes code look a lot better and run smoother. Refactoring also saves space and memory so that there is less of a chance of a memory leak. 
 
+## Usage 
+
+* Link: https://b0rtleinacan.github.io/HTML-CSS-Homework-3_4_23/
+* Screenshot: ./SS/HomeworkPage.jpg
+
 ## Credits
 
 Nelson Lynch
