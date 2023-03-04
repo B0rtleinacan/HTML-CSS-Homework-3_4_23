@@ -85,21 +85,21 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
+/* Refactored the benefit class' to one block of code*/
 .benefit-lead,
 .benefit-brand,
 .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
+/* Refactored the benefit class' h3 tags to one block of code */
 .benefit-lead h3,
 .benefit-brand h3,
 .benefit-cost h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-
+/* Refactored the benefit */
 .benefit-lead img,
 .benefit-brand img,
 .benefit-cost img {
@@ -107,7 +107,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* Refactored the search-engine-optimization, online-reputation-management and social-media-marketing class' to one block of code*/
 .search-engine-optimization,
 .online-reputation-management,
 .social-media-marketing {
@@ -118,13 +118,13 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/* Refactored the search-engine-optimization, online-reputation-management and social-media-marketing img id's to one block of code*/
 #search-engine-optimization img,
 #online-reputation-management img,
 #social-media-marketing img {
     max-height: 200px;
 }
-
+/* Refactored the search-engine-optimization, online-reputation-management and social-media-marketing class' h2 tags to one block of code*/
 .search-engine-optimization h2,
 .online-reputation-management h2,
 .social-media-marketing h2 {
